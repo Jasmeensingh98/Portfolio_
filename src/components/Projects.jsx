@@ -20,7 +20,7 @@ export default function Projects() {
   description: 'A mental wellness platform designed for psychology professionals and users',
   image: '🧠',
   technologies: ['HTML', 'CSS', 'MongoDB'],
-  link: '#',
+  link: 'https://mind-ease-react-app.vercel.app/',
   details: 'Built a psychology-focused platform offering mental health resources, self-assessment tools, and guided wellness content. Includes user profiles, appointment booking with psychologists, and a calm, minimal UI designed to promote mental well-being.'
 },
 {
@@ -33,7 +33,7 @@ export default function Projects() {
   details: 'Created a responsive Bigg Boss–style voting website where users can vote for their favorite contestants. Implemented dynamic vote counting using JavaScript, interactive UI components, and mobile-first design using Tailwind CSS and Bootstrap.'
 },
 {
-      id: 5,
+      id: 4,
       title: 'Portfolio Website',
       description: 'Personal portfolio showcasing projects and skills',
       image: '💼',
@@ -42,12 +42,12 @@ export default function Projects() {
       details: 'Designed and developed a responsive portfolio website with smooth animations and modern design principles.'
     },
     {
-      id: 6,
+      id: 5,
       title: 'Chatify (Group Project) ',
       description: 'Real-time messaging application with user authentication',
       image: '💬',
       technologies: ['React', 'Socket.io', 'Node.js', 'MongoDB'],
-      link: '#',
+      link: 'https://chatify-clzf.onrender.com/',
       details: 'Created a real-time chat application with multiple rooms, user status, file sharing, and message history.'
     }
   ]
